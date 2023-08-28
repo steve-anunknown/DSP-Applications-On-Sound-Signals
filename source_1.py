@@ -2,7 +2,8 @@
 """
 Created on Tue Apr 19 16:59:22 2022
 
-@author: Dell
+@author: Anastasios Stefanos Anagnostou
+         Spyridon Papadopoulos
 """
 
 #1.1
